@@ -1,0 +1,6 @@
+# 全社のスキル一覧に載せるタイトルと概要（人手で記載）
+department: fin
+skills:
+  budget-template:
+    title: "予算申請書の整形"
+    summary: "各部署から提出された予算申請の内容を、経理部指定の申請書フォーマットに整える。"
