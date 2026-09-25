@@ -4,3 +4,6 @@ skills:
   budget-template:
     title: "予算申請書の整形"
     summary: "各部署から提出された予算申請の内容を、経理部指定の申請書フォーマットに整える。"
+  expense-audit:
+    title: "経費精算チェック"
+    summary: "経費精算の申請内容と領収書を照合し、規程違反や記載不備の疑いがある申請を抽出する。"
