@@ -10,3 +10,6 @@ skills:
   monthly-variance:
     title: "月次予実差異コメント"
     summary: "月次の予算と実績を比較し、差異の大きい科目について経営会議向けの説明コメントを下書きする。"
+  invoice-reader:
+    title: "請求書の読み取りと仕訳候補"
+    summary: "受領した請求書PDFから取引先・金額・期日を読み取り、勘定科目付きの仕訳候補を作る。"
